@@ -1,7 +1,5 @@
 ### Hellooooooooo!
 
-My name is Faye(she/her). I'm a front end developer, working primarily in SASS/CSS/SCSS, custom WordPress templating in HTML/PHP, and I specalize in website accessibility. Also I am super hilarious.
+My name is Faye(she/her). I'm a full stack developer, specializing in front-end, WordPress, Technical SEO, and Digital Accessibility. I have 16 years of experience in web development, have worked with numerous CMSs and technologies, although my happy place is creating custom Gutenberg blocks (either with React or ACF). Also I am super hilarious.
 
-If you're looking for code samples, I typically use [Cacher](https://snippets.cacher.io/user/FayeDM) to host those, since I've always worked in collaboration with a team and my work comes in smaller contributions than entire projects.
-
-It's also worth noting that most of my work has been via agencies or short contact and is not mine to share.
+Most of my work has been via agencies or short contact and is not mine to share, and websites I've worked on were done in collaboration and cannot be claimed as personal portfolio pieces.
