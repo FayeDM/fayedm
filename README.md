@@ -4,6 +4,10 @@ Web developer specializing in accessibility, WordPress, technical SEO, and front
 
 I've been building websites on a variety of CMS platforms since 2010 and currently work primarily in agency environments where quality, maintainability, and accessibility matter.
 
+## My approach
+
+I believe accessibility, quality assurance, SEO, performance, and user experience are not separate disciplines. The best websites are built when these considerations are part of the development process from the beginning, not added at the end.
+
 ## What I do
 
 - WordPress development
