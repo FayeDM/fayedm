@@ -1,4 +1,4 @@
-# Hi, I'm Faye (she/her) 👋
+# Hi, I'm Faye 👋
 
 Web developer specializing in accessibility, WordPress, technical SEO, and front-end development.
 
