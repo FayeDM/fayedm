@@ -1,6 +1,6 @@
 # Hi, I'm Faye 👋
 
-Web developer specializing in accessibility, WordPress, technical SEO, and front-end development.
+Full Stack web developer specializing in accessibility, WordPress, technical SEO, and front-end development.
 
 I've been building websites on a variety of CMS platforms since 2010 and currently work primarily in agency environments where quality, maintainability, and accessibility matter.
 
